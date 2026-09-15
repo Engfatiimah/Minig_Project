@@ -17,8 +17,12 @@ We chose this problem because loan approval is a real-world decision that is usu
 ## Dataset
 Collected from Kaggle: [Loan Prediction — Dream Housing Finance](https://www.kaggle.com/code/ufffnick/loan-prediction-dream-housing-finance/input) — Target: `Loan_Status` (Y/N)
 
+## Raw Dataset
+- Google collapse copy : [https://colab.research.google.com/drive/1_090_hUPDyAvOYOrhohOBC3EH1lMJDRx?usp=sharing]
+- sheet.cvs copy : []
+
 ## Team Members
 - [Fatimah Bin Mohammed]
-- []
-- []
-- []
+- [Najd Mohammed Alhargan]
+- [Elaf Alangari]
+- [Lara Alfurayh]
